@@ -1,4 +1,4 @@
-# zsh in windows
+# zsh on windows
 
 This guide shows you how to install a nice Cmder terminal in Windows,
 with cygwin-zsh and a context-menu button to open the terminal in
